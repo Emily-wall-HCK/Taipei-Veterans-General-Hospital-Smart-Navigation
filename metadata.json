@@ -1,0 +1,6 @@
+{
+  "name": "榮總智慧導航",
+  "description": "榮總院內智慧 AR 導航、室內定位、路徑規劃、人潮避開、智慧就醫助手與高齡無障礙導航 App (VGH Smart Guide)",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
