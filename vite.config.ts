@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base:'/Taipei-Veterans-General-Hospital-Smart-Navigation/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
